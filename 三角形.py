@@ -49,7 +49,7 @@ for i in range(row):
     print()
 
 '''
-        10 *
+         *
         ***
        *****
       *******
